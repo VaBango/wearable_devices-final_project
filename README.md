@@ -7,9 +7,9 @@ Detecting Optimal vs Suboptimal running form.
 Proof of concept.  
 
 #### The project contains
-Final Report: Document summarizing all the work,
-Slides, Final Presentation
-Live Demo Videos
-Code
-Data
+Final Report: Document summarizing all the work.  
+Slides, Final Presentation.  
+Live Demo Videos.  
+Code.  
+Data.  
 
